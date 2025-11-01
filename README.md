@@ -4,6 +4,13 @@
 
 </div>
 
+<hr>
+<div align="center" >
+<h3>
+Software Engineer from KSA
+</h3>
+</div>
+
 <!--
 **Sama-Ali/Sama-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
