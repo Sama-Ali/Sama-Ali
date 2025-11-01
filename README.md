@@ -4,11 +4,8 @@
 
 </div>
 
-<hr>
 <div align="center" >
-<h3>
-Software Engineer from KSA
-</h3>
+Software Engineer in KSA
 </div>
 
 <!--
