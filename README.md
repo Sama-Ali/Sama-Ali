@@ -15,5 +15,3 @@ Software Engineer in KSA
 - 🤔 I’m interested in Flutter
 - 💬 Ask me about Web development and React
 - 🌱 I’m looking to learning new things and improving my technical skills
-
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
