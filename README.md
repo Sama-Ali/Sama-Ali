@@ -11,7 +11,6 @@ Software Engineer in KSA
 </div>
 
 <p align="center">
-
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/html5.svg" alt="HTML5"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/css3.svg" alt="CSS3"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/javascript.svg" alt="JavaScript"></a> &nbsp;&nbsp;
@@ -23,7 +22,6 @@ Software Engineer in KSA
 <a target="_blank" href="https://www.figma.com/@proxzima"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/figma.svg" alt="Figma"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/git.svg" alt="Git"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/github.svg" alt="GitHub"></a> &nbsp;&nbsp;
-
 </p>
 
     - 👩‍💻 I’m a Software Engineer graduated from PSAU
