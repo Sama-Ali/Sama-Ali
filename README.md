@@ -26,14 +26,13 @@ Software Engineer in KSA
 
 </p>
 
-<div>
     - 👩‍💻 I’m a Software Engineer graduated from PSAU
     - ⚡ I’m currently working on Farfosh
     - 🤔 I’m interested in Flutter
     - 💬 Ask me about Web development and React
     - 🌱 I’m looking to learning new things and improving my technical skills
-</div>
 
+<br>
 <p align="center">
   <a href="mailto:contact@samaali2h@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"></a>
   <a target="_blank" href="https://www.linkedin.com/in/sama-alhelo/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="pratik-pingale"/></a>
