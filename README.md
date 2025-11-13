@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi👋 I am Sama
+## Hi guys👋 I am Sama
 
 </div>
 
@@ -28,12 +28,12 @@ Software Engineer in KSA
     - 💻 I’m currently working on Farfosh
     - 🤔 I’m interested in Flutter
     - 💬 Ask me about Web development and React
-    - 🌱 I’m looking to learning new things and improving my technical skills
+    - 🌱 I’m looking to improving my technical skills everyday
 
 <br>
+Reach me on 
 <p align="center">
-  <a href="mailto:@samaali2h@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/sama-alhelo/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="pratik-pingale"/></a>
-  
-  <a target="_blank" href="https://x.com/ssnowsky"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/twitter.svg" alt="pro_x_zima"/></a>
+<a href="mailto:@samaali2h@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail"></a>
+<a target="_blank" href="https://www.linkedin.com/in/sama-alhelo/"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="pratik-pingale"/></a>
+<a target="_blank" href="https://x.com/ssnowsky"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/twitter.svg" alt="pro_x_zima"/></a>
 </p>
