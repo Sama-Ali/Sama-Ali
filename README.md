@@ -6,7 +6,7 @@
 
 <div align="center" >
     <h3>
-Software Engineer in KSA
+Software Engineer
     </h3>
 </div>
 
