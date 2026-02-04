@@ -22,7 +22,7 @@ Software Engineer
 <!-- mui -->
 <a href="#"><img src="https://raw.githubusercontent.com/mui/material-ui/master/docs/public/static/logo.svg" alt="Material UI" style="width: 40px; height: 40px;"></a> &nbsp;&nbsp;
 <!-- next js -->
-<a href="#"><img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/next.svg" alt="Next.js" style="width: 40px; height: 40px;"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" style="width: 40px; height: 40px;"></a> &nbsp;&nbsp;
 <!-- java -->
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/java.svg" alt="Java"></a> &nbsp;&nbsp;
 <!-- flutter -->
@@ -30,7 +30,7 @@ Software Engineer
 <!-- firebase -->
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/firebase.svg" alt="FireBase"></a> &nbsp;&nbsp;
 <!-- supabase -->
-<a href="#"><img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo.svg" alt="Supabase" style="width: 40px; height: 40px;"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" style="width: 40px; height: 40px;"></a> &nbsp;&nbsp;
 <!-- postman -->
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/postman.svg" alt="Postman"></a> &nbsp;&nbsp;
 <!-- figma -->
