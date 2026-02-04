@@ -6,7 +6,7 @@
 
 <div align="center" >
     <h3>
-Software Engineer in KSA
+Software Engineer
     </h3>
 </div>
 
@@ -28,8 +28,8 @@ Software Engineer in KSA
 
     - 👩‍💻 I’m a Software Engineer graduated from PSAU
     - 💻 I’m currently working on Farfosh
-    - 🤔 I’m interested in Flutter
     - 💬 Ask me about Web development and React
+    - 🤔 I’m interested in Flutter
     - 🌱 I’m looking to improving my technical skills everyday
 
 <br>
