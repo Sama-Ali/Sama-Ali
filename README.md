@@ -40,15 +40,10 @@ Software Engineer
 <!-- laravel -->
 <a href="#"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" style="width: 40px; height: 40px;"></a> &nbsp;&nbsp;
 <!-- figma -->
-
 <a target="_blank" href="https://www.figma.com/@proxzima"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/figma.svg" alt="Figma"></a> &nbsp;&nbsp;
-
 <!-- git -->
-
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/git.svg" alt="Git"></a> &nbsp;&nbsp;
-
 <!-- github -->
-
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/github.svg" alt="GitHub"></a> &nbsp;&nbsp;
 
 </p>
