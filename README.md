@@ -6,7 +6,7 @@
 
 <div align="center" >
     <h3>
-Software Engineer
+Fullstack Developer
     </h3>
 </div>
 
@@ -48,11 +48,12 @@ Software Engineer
 
 </p>
 
-    - 👩‍💻 I’m a Software Engineer graduated from PSAU
-    - 💻 I’m currently working on Farfosh
+    - 👩‍💻 Software Engineering graduate from PSAU
+    - 💻 I'm Currently working on Farfosh
     - 💬 Ask me about Web development and React
+    - 🔧 I enjoy building backends with Laravel
     - 🤔 I’m interested in Flutter
-    - 🌱 I’m looking to improving my technical skills everyday
+    - 🌱 I’m looking to improve my technical skills everyday
 
 <br>
 Reach me on 
